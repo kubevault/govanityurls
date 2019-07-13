@@ -1,8 +1,15 @@
-host: rakyll.pizza
+host: kubevault.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /cli:
+    repo: https://github.com/kubevault/cli
+  /csi-driver:
+    repo: https://github.com/kubevault/csi-driver
+  /docs:
+    repo: https://github.com/kubevault/docs
+  /operator:
+    repo: https://github.com/kubevault/operator
+  /unsealer:
+    repo: https://github.com/kubevault/unsealer
+  /vault_exporter:
+    repo: https://github.com/kubevault/vault_exporter
