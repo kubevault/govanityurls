@@ -7,6 +7,8 @@ paths:
     repo: https://github.com/kubevault/csi-driver
   /docs:
     repo: https://github.com/kubevault/docs
+  /installer:
+    repo: https://github.com/kubevault/installer
   /operator:
     repo: https://github.com/kubevault/operator
   /unsealer:
