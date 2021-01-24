@@ -1,6 +1,8 @@
 host: kubevault.dev
 
 paths:
+  /apimachinery:
+    repo: https://github.com/kubevault/apimachinery
   /cli:
     repo: https://github.com/kubevault/cli
   /csi-driver:
